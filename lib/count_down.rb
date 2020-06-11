@@ -1,4 +1,4 @@
-magic_number = -1
+magic_number = 0
 count = 10
 while count != magic_number do
   puts count
